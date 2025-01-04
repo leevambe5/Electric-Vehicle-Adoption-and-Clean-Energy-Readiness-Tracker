@@ -3,7 +3,7 @@
 *Feel free to explore the [dashboard](https://public.tableau.com/app/profile/leon.vambe/viz/ElectricVehicleAdoptionandCleanEnergyReadinessTracker/ElectricVehicleAdoption) and suggest areas for improvement. Your feedback is highly appreciated—thank you for your valuable input!*
 
 ### Data Description
-This dataset focuses on electric vehicles (EVs) in the United States, with a particular emphasis on Washington State. It includes information on vehicle make, model, electric range, vehicle type (Battery Electric Vehicle - BEV or Plug-in Hybrid Electric Vehicle - PHEV), Clean Alternative Fuel Vehicle (CAFV) eligibility, location (county and city), and utility provider. The dataset also contains geographic coordinates and census tract data, enabling regional analysis. The data was extracted from Data.Gov and consists of 29 fields and 216,766 rows.
+This dataset focuses on electric vehicles (EVs) in the United States, with a particular emphasis on Washington State. It includes information on vehicle make, model, electric range, vehicle type (Battery Electric Vehicle - BEV or Plug-in Hybrid Electric Vehicle - PHEV), Clean Alternative Fuel Vehicle (CAFV) eligibility, location (county and city), and utility provider. The dataset also contains geographic coordinates and census tract data, enabling regional analysis. The data was extracted from Data.Gov and consists of 29 fields and 216,731 rows.
 
 ### Dashboard Overview
 This dashboard is designed for policymakers, environmental analysts, and utility companies who are interested in understanding EV adoption patterns, CAFV program eligibility, and electric vehicle infrastructure needs. 
